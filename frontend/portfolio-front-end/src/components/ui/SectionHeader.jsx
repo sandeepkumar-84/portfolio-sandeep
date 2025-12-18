@@ -16,7 +16,7 @@ export default function SectionHeader({label,title,subtitle})
 
             {
                 subtitle && (
-                    <p className="mt-4 max-w-2xl text-slate-400">
+                    <p className="mt-4 max-w-1xl text-slate-400">
                         {
                             subtitle
                         }
